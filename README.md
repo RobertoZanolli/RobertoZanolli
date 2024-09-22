@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Ciao! Sono Roberto Zanolli, studente di Informatica per <br>     il Management all'Università di Bologna. <br>
-🖥️ Appassionato di programmazione, AI e del mondo data! 🚀
+🖥️ Appassionato di programmazione, AI e del mondo data! 🚀<br>
 🐍☕️>>>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-zanolli-2003-bo/) 
 
 # 💻 Tech Stack:
