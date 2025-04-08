@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://firebasestorage.googleapis.com/v0/b/svg-generator-dev.appspot.com/o/TnGu6a1C5VOuSwTRN3nk2eTWllf2%2Fimages%2Fa%20skinny%20guy%20with%20square%20glasses%20that%20is%20writing%20on%20a%20laptop%2C%20seen%20from%20the%20side%2C%3Adoodle-v2%3A2%3A1742832336%3Ageneration.png?alt=media&token=532ab546-1442-42e3-9b1a-ea4083bacf1d"  />
+  <img height="200" src="![doodle](https://github.com/user-attachments/assets/0df56b2f-4252-48bc-b01c-97b7df4b174a)"  />
 </div>
 
 ###
