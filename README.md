@@ -1,8 +1,6 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="![doodle](https://github.com/user-attachments/assets/0df56b2f-4252-48bc-b01c-97b7df4b174a)"  />
-</div>
 
 ###
 
