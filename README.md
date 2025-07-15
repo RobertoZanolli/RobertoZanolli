@@ -6,9 +6,7 @@
   More on <a href="https://robertozanolli.github.io" target="_blank">robertozanolli.github.io</a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RobertoZanolli/count.svg?" />
-</p>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height: 30px; max-width: 30px; vertical-align: middle;" alt="fastapi logo" />
@@ -27,6 +25,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height: 30px; max-width: 30px; vertical-align: middle;" alt="anaconda logo" />
   &nbsp;
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="height: 30px; max-width: 30px; vertical-align: middle;" alt="androidstudio logo" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 30px; max-width: 30px; vertical-align: middle;" alt="html5 logo" />
