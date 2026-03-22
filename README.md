@@ -2,7 +2,7 @@
 <h3 align="center">Hi, I'm Roberto.</h3>
 
 <p align="center">
-  Full stack developer based in Bologna, IT.<br />
+  Full stack developer and ai engineer based in Bologna, IT.<br />
   More on <a href="https://robertozanolli.github.io" target="_blank">robertozanolli.github.io</a>
 </p>
 
